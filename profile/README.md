@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Windrose Mod Menu 2026 - Open source, self-hosted internal mod menu for Windrose PvE pirate survival. Stable after April 22 hotfix. Undetected in solo/private sessions. Full source on GitHub.">
-    <title>Windrose Internal Mod Menu 2026 • Stable After April 22 Hotfix • Open Source • Self-Hosted • Zero External Dependencies</title>
-    <style>
-        body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.7; max-width: 960px; margin: 40px auto; padding: 0 20px; color: #eee; background: #0a0a0a; }
-        h1, h2 { color: #00ccff; }
-        table { width: 100%; border-collapse: collapse; margin: 20px 0; background: #111; }
-        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #333; }
-        th { background: #1a1a1a; }
-        pre { background: #111; padding: 15px; border-radius: 6px; overflow-x: auto; }
-        details { margin: 15px 0; }
-        summary { cursor: pointer; font-weight: 600; padding: 10px; background: #1a1a1a; border-radius: 4px; }
-        a { color: #00ccff; }
-        .warning { color: #ffcc00; background: #331a00; padding: 15px; border-radius: 6px; }
-    </style>
-</head>
-<body>
-
 <h1>Windrose Internal Mod Menu 2026 • Stable Post-April 22 Hotfix • Open Source • Self-Hosted • Auditable Pirate Power</h1>
 
 <p><strong>Updated &amp; tested as of April 28, 2026</strong> — 47 hours of continuous runtime across solo voyages, private co-op islands, and custom sessions after the April 22 equipment balancing hotfix and minor anti-cheat refinements.</p>
